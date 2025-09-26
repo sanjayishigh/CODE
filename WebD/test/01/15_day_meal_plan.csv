@@ -1,0 +1,106 @@
+Day,Meal,Time,Food,Calories,Protein,Carbs,Fat
+1,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+1,Breakfast,8:00 AM,2 Idli + Sambhar + Coconut Chutney,300,11,45,9
+1,Mid-Morning,10:30 AM,Whey Protein + Banana,205,21,29,1
+1,Lunch,1:00 PM,Rajma + 2 Chapathi + Salad,320,18,50,6
+1,Evening,4:00 PM,1 Apple + Green Tea,80,0,21,0
+1,Dinner,8:00 PM,Dal + 1 Chapathi + Veg Curry + Salad,280,14,39,7
+1,Pre-bed,10:00 PM,1 Glass Milk (low fat) OR Casein protein,120,8,12,4
+2,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+2,Breakfast,8:00 AM,2 Boiled Eggs + 1 Chapathi,220,15,16,11
+2,Mid-Morning,10:30 AM,Whey Protein + Banana,205,21,29,1
+2,Lunch,1:00 PM,Chicken Curry + 1 Chapathi + Salad,280,28,20,9
+2,Evening,4:00 PM,1 Apple + Green Tea,80,0,21,0
+2,Dinner,8:00 PM,Chicken Curry + Salad (no rice/chapathi),200,25,5,8
+2,Pre-bed,10:00 PM,1 Glass Milk (low fat) OR Casein protein,120,8,12,4
+3,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+3,Breakfast,8:00 AM,2 Idli + Sambhar + Coconut Chutney,300,11,45,9
+3,Mid-Morning,10:30 AM,Whey Protein + Banana,205,21,29,1
+3,Lunch,1:00 PM,Dal + Rice (1/2 bowl) + Veg Curry + Salad,400,18,62,8
+3,Evening,4:00 PM,1 Apple + Green Tea,80,0,21,0
+3,Dinner,8:00 PM,Paneer Curry + 1 Chapathi + Salad,260,18,23,9
+3,Pre-bed,10:00 PM,1 Glass Milk (low fat) OR Casein protein,120,8,12,4
+4,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+4,Breakfast,8:00 AM,2 Boiled Eggs + 1 Chapathi,220,15,16,11
+4,Mid-Morning,10:30 AM,Whey Protein + Banana,205,21,29,1
+4,Lunch,1:00 PM,Rajma + 2 Chapathi + Salad,320,18,50,6
+4,Evening,4:00 PM,1 Apple + Green Tea,80,0,21,0
+4,Dinner,8:00 PM,Dal + 1 Chapathi + Veg Curry + Salad,280,14,39,7
+4,Pre-bed,10:00 PM,1 Glass Milk (low fat) OR Casein protein,120,8,12,4
+5,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+5,Breakfast,8:00 AM,2 Idli + Sambhar + Coconut Chutney,300,11,45,9
+5,Mid-Morning,10:30 AM,Whey Protein + Banana,205,21,29,1
+5,Lunch,1:00 PM,Chicken Curry + 1 Chapathi + Salad,280,28,20,9
+5,Evening,4:00 PM,1 Apple + Green Tea,80,0,21,0
+5,Dinner,8:00 PM,Chicken Curry + Salad (no rice/chapathi),200,25,5,8
+5,Pre-bed,10:00 PM,1 Glass Milk (low fat) OR Casein protein,120,8,12,4
+6,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+6,Breakfast,8:00 AM,Uttapam + Sambhar,280,12,47,5
+6,Mid-Morning,10:30 AM,Whey Protein + Banana,205,21,29,1
+6,Lunch,1:00 PM,Green Moong + Rice (1/2 bowl) + Salad,320,14,60,3
+6,Evening,4:00 PM,1 Apple OR Green Tea,80,0,21,0
+6,Dinner,8:00 PM,Dal + Veg Curry + Salad (no chapathi),200,12,24,6
+6,Pre-bed,10:00 PM,1 Glass Milk (low fat),120,8,12,4
+7,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+7,Breakfast,8:00 AM,2 Egg Omelette + 1 Chapathi,220,15,16,11
+7,Mid-Morning,10:30 AM,Whey Protein + Banana,205,21,29,1
+7,Lunch,1:00 PM,Brinjal Curry + 2 Chapathi + Dal,360,13,57,7
+7,Evening,4:00 PM,1 Apple OR Green Tea,80,0,21,0
+7,Dinner,8:00 PM,Paneer Curry + Salad (no chapathi),180,15,8,8
+7,Pre-bed,10:00 PM,1 Glass Milk (low fat),120,8,12,4
+8,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+8,Breakfast,8:00 AM,Oats with milk + fruits,250,10,35,6
+8,Mid-Morning,10:30 AM,Whey Protein + Banana,205,21,29,1
+8,Lunch,1:00 PM,Chicken Curry + 1 Chapathi + Salad,280,28,20,9
+8,Evening,4:00 PM,1 Apple OR Green Tea,80,0,21,0
+8,Dinner,8:00 PM,Chicken Curry + Salad (no carbs),200,25,5,8
+8,Pre-bed,10:00 PM,1 Glass Milk (low fat),120,8,12,4
+9,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+9,Breakfast,8:00 AM,Uttapam + Sambhar,280,12,47,5
+9,Mid-Morning,10:30 AM,Whey Protein + Banana,205,21,29,1
+9,Lunch,1:00 PM,Green Moong + Rice (1/2 bowl) + Salad,320,14,60,3
+9,Evening,4:00 PM,1 Apple OR Green Tea,80,0,21,0
+9,Dinner,8:00 PM,Dal + Veg Curry + Salad (no chapathi),200,12,24,6
+9,Pre-bed,10:00 PM,1 Glass Milk (low fat),120,8,12,4
+10,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+10,Breakfast,8:00 AM,2 Egg Omelette + 1 Chapathi,220,15,16,11
+10,Mid-Morning,10:30 AM,Whey Protein + Banana,205,21,29,1
+10,Lunch,1:00 PM,Brinjal Curry + 2 Chapathi + Dal,360,13,57,7
+10,Evening,4:00 PM,1 Apple OR Green Tea,80,0,21,0
+10,Dinner,8:00 PM,Paneer Curry + Salad (no chapathi),180,15,8,8
+10,Pre-bed,10:00 PM,1 Glass Milk (low fat),120,8,12,4
+11,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+11,Breakfast,8:00 AM,Oats with milk + fruits,250,10,35,6
+11,Mid-Morning,10:30 AM,1 Boiled Egg + Green Tea,70,6,1,5
+11,Lunch,1:00 PM,Chicken Curry + 1 Chapathi + Salad,280,28,20,9
+11,Evening,4:00 PM,1 Apple OR Green Tea,80,0,21,0
+11,Dinner,8:00 PM,Chicken Curry + Salad (no carbs),200,25,5,8
+11,Pre-bed,10:00 PM,1 Glass Milk (low fat),120,8,12,4
+12,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+12,Breakfast,8:00 AM,Uttapam + Sambhar,280,12,47,5
+12,Mid-Morning,10:30 AM,1 Boiled Egg + Green Tea,70,6,1,5
+12,Lunch,1:00 PM,Green Moong + Rice (1/2 bowl) + Salad,320,14,60,3
+12,Evening,4:00 PM,1 Apple OR Green Tea,80,0,21,0
+12,Dinner,8:00 PM,Dal + Veg Curry + Salad (no chapathi),200,12,24,6
+12,Pre-bed,10:00 PM,1 Glass Milk (low fat),120,8,12,4
+13,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+13,Breakfast,8:00 AM,2 Egg Omelette + 1 Chapathi,220,15,16,11
+13,Mid-Morning,10:30 AM,1 Boiled Egg + Green Tea,70,6,1,5
+13,Lunch,1:00 PM,Brinjal Curry + 2 Chapathi + Dal,360,13,57,7
+13,Evening,4:00 PM,1 Apple OR Green Tea,80,0,21,0
+13,Dinner,8:00 PM,Paneer Curry + Salad (no chapathi),180,15,8,8
+13,Pre-bed,10:00 PM,1 Glass Milk (low fat),120,8,12,4
+14,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+14,Breakfast,8:00 AM,Oats with milk + fruits,250,10,35,6
+14,Mid-Morning,10:30 AM,1 Boiled Egg + Green Tea,70,6,1,5
+14,Lunch,1:00 PM,Chicken Curry + 1 Chapathi + Salad,280,28,20,9
+14,Evening,4:00 PM,1 Apple OR Green Tea,80,0,21,0
+14,Dinner,8:00 PM,Chicken Curry + Salad (no carbs),200,25,5,8
+14,Pre-bed,10:00 PM,1 Glass Milk (low fat),120,8,12,4
+15,Early Morning,6:00 AM,Water (2 glasses),0,0,0,0
+15,Breakfast,8:00 AM,Uttapam + Sambhar,280,12,47,5
+15,Mid-Morning,10:30 AM,1 Boiled Egg + Green Tea,70,6,1,5
+15,Lunch,1:00 PM,Green Moong + Rice (1/2 bowl) + Salad,320,14,60,3
+15,Evening,4:00 PM,1 Apple OR Green Tea,80,0,21,0
+15,Dinner,8:00 PM,Dal + Veg Curry + Salad (no chapathi),200,12,24,6
+15,Pre-bed,10:00 PM,1 Glass Milk (low fat),120,8,12,4
